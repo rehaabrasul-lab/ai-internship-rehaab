@@ -11,7 +11,6 @@ def animal():
   else:
     print("It must be a Whale!")
 
-
 def vegetable():
   print("Is the vegetable green? Y/N")
   answer = input().lower()
@@ -32,7 +31,7 @@ def vegetable():
   else:
     print("That is not one of the options!")
 
-print("Choose somethng from this list:\nPeas, Broccoli, Carrot, Sweetcorn, Ostrich, Lion or Whale")
+print("Choose something from this list:\nPeas, Broccoli, Carrot, Sweetcorn, Ostrich, Lion or Whale")
 print("Is your choice animal? Y/N")
 answer = input().lower()
 if answer == "y":
