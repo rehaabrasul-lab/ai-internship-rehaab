@@ -9,3 +9,5 @@ how does a model actually learn?
 Simply put, a model learns by guessing a random answer, measuring how wrong it is and then tweaking its settings to make a better guess next time. This happens in a continuous loop, whilst using a score for mistakes and making tiny mathematical adjustments each time 
 
 neural_network_mnist - 10/08/26 - on Google Colab, I trained my first neural network with MNIST handwritten digits. I used datasets from TensorFlow and trained them using the Sequential model and other iterations such as 'Dense', 'ReLU' and 'Dropout'
+
+object_detection - 17/08/26 - in this notebook, I used RF-DETR model, which has been pretrained in 80 classes. I used pictures from the roboflow website, where RF-DETR comes from, and the internet, and it accurately detected and labelled the objects in the images that I gave. 
