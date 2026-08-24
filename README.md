@@ -14,4 +14,4 @@ object_detection - 17/08/26 - in this notebook, I used RF-DETR model, which has 
 
 OCR_number_plates - 24/08/26 - this is a mini notebook where I found a pre-trained OCR model online and gave it number plate images. This model can also recognise different languages and words, however I only used it as an ANPR demo. I also solidified my knowledge about how ANPR works, and made a diagram on it, which is situated below. 
 
-<img width="1920" height="1080" alt="detect and read pipeline" src="https://github.com/user-attachments/assets/7e2a6594-4ad3-4f75-93be-a9fce771ee8e" />
+<img width="1920" height="1080" alt="detect and read pipeline (1)" src="https://github.com/user-attachments/assets/5e901748-473f-4cc0-973d-178edbcb0a26" />
